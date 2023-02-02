@@ -1,13 +1,41 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import "./styles/button.css";
+@import "./styles/button-icon.css";
+@import "./styles/header.css";
+@import "./styles/hero.css";
+@import "./styles/wrapper.css";
+@import "./styles/menu.css";
+@import "./styles/social.css";
+@import "./styles/footer.css";
+@import "./styles/form.css";
+@import "./styles/title.css";
+@import "./styles/projects.css";
+@import "./styles/certificates.css";
+@import "./styles/expirience.css";
+
+:root {
+    --fontBase : 'Poppins', sans-serif;
+    --headline1 : bold 95px/153.71px var(--fontBase);
+    --headline2 : bold 59px/95px var(--fontBase);
+    --headline3 : bold 48px/77px var(--fontBase);
+    --headline4 : bold 34px/55px var(--fontBase);
+    --headline5 : bold 24px/38px var(--fontBase);
+    --body1 : 16px/25px var(--fontBase);
+    --body2 : 14px/22px var(--fontBase);
+    --button : bold 14px/22px var(--fontBase);
+    --caption : 12px/19px var(--fontBase);
+    --gradient: radial-gradient(41.48% 11.48% at 2.38% 8.52%, #747DE9 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(135deg, #72EDF2 0%, #5151E5 100%);
+    --purple : #310A90;
+    --green : #42E2B8;
+    --white : white;
+    --linkedin : #0071bc;
+
+    
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+    background: var(--gradient);
+    min-block-size: 100vh;
+    font: var(--body1);
+    color: var(--purple);
+    margin: 0;    
 }
