@@ -6,12 +6,12 @@ const Projects = () => {
             <div class="project-head">
                 <p>A lo largo de este tiempo he ido aprendiendo cada vez más de este mundo tan maravilloso que es la indsutria <i>tech</i>, a continuación les persento mis proyectos personales</p>
                 <h1>Aquí hay algunos que me gustaría compartir.</h1>
-                <img src="./img/arrow-down.png" alt="⬇"/>
+                <img src="https://kenyihq.github.io/portfolio/img/arrow-down.png" alt="⬇"/>
             </div>
             <div class="project">
                 <div class="project-img">
                     <a href="#main">
-                        <img src="./img/portfolio.png" alt="Portafolio persoanal" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/portfolio.png" alt="Portafolio persoanal" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
@@ -24,7 +24,7 @@ const Projects = () => {
             <div class="project">
                 <div class="project-img">
                     <a href="https://replit.com/@kenyihq/pokemongame#main.py" target="_blank">
-                        <img src="./img/pokemon.png" alt="Pokemon" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/pokemon.png" alt="Pokemon" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
@@ -37,7 +37,7 @@ const Projects = () => {
             <div class="project">
                 <div class="project-img">
                     <a href="https://replit.com/@kenyihq/todo#main.py" target="_blank">
-                        <img src="./img/to-do.png" alt="Pokemon" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/to-do.png" alt="Pokemon" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
@@ -50,7 +50,7 @@ const Projects = () => {
             <div class="project">
                 <div class="project-img">
                     <a href="https://kenyihq.github.io/snake-game/" target="_blank">
-                        <img src="./img/snake.png" alt="Snake" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/snake.png" alt="Snake" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
@@ -63,7 +63,7 @@ const Projects = () => {
             <div class="project">
                 <div class="project-img">
                     <a href="https://kenyihq.github.io/videoplayer/" target="_blank">
-                        <img src="./img/videoplayer.png" alt="VideoPlayer" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/videoplayer.png" alt="VideoPlayer" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
@@ -76,7 +76,7 @@ const Projects = () => {
             <div class="project">
                 <div class="project-img">
                     <a href="https://kenyihq.github.io/pokedex/" target="_blank">
-                        <img src="./img/pokedex.png" alt="Pokedex" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/pokedex.png" alt="Pokedex" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
@@ -89,7 +89,7 @@ const Projects = () => {
             <div class="project">
                 <div class="project-img">
                     <a href="https://kenyihq.github.io/JS-api-php/" target="_blank">
-                        <img src="./img/crud-js.png" alt="Crud PHP" class="img"/>
+                        <img src="https://kenyihq.github.io/portfolio/img/crud-js.png" alt="Crud PHP" class="img"/>
                     </a>
                 </div>
                 <div class="project-description">
