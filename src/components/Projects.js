@@ -35,7 +35,7 @@ const Projects = () => {
             practicar mis hablidades en desarrollo web
           </p>
           <a
-            href="https://github.com/kenyihq/portfolio/blob/main/index.html"
+            href="https://github.com/kenyihq/portfolio-react/blob/main/src/App.js"
             target="_blank"
             class="button2"
           >
