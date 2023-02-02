@@ -9,7 +9,7 @@ const Expirience = () => {
             <div class="experience">
                 <div class="experience-img">
                     <a href="https://www.linkedin.com/posts/palo-it_felicidades-a-los-ganadores-del-hackathon-activity-6827730245093871616-KUZ_" target="blank_">
-                        <img src="./img/hackathon.png" alt="Experiencia" class="img">
+                        <img src="./img/hackathon.png" alt="Experiencia" class="img"/>
                     </a>
                 </div>
                 <div class="experience-video">
