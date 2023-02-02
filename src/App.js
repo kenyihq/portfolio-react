@@ -5,7 +5,7 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="App">
+    <div class="wrapper" id="index">
       
       <Certificates/>
       <Contact/>
