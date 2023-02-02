@@ -11,11 +11,11 @@ const Contact = () => {
             <p>O dejame un mensaje</p>
             <label for="form-name">
                 Nombre completo
-                <input required name="name" id="form-name" type="text" placeholder="Tu nombre">
+                <input required name="name" id="form-name" type="text" placeholder="Tu nombre"/>
             </label>
             <label for="form-email">
                 Correo electrónico
-                <input required name="email" id="form-email" type="email" placeholder="Tu correo electrónico">
+                <input required name="email" id="form-email" type="email" placeholder="Tu correo electrónico"/>
             </label>
             <label for="form-message">
                 Mensaje

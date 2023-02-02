@@ -1,5 +1,6 @@
 import './index.css';
 import Certificates from './components/Certificates';
+import Contact from './components/Contact';
 
 
 function App() {
@@ -7,6 +8,8 @@ function App() {
     <div className="App">
       
       <Certificates/>
+      <Contact/>
+      
       
     </div>
   );
